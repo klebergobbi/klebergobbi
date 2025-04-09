@@ -78,19 +78,24 @@ Solução completa de e-commerce mobile em Flutter, com sistema de recomendaçã
 
 ## 📚 Artigos e Publicações
 
-Em breve compartilharei artigos sobre:
-- Implementação de modelos de IA em dispositivos móveis
-- Desenvolvimento cross-platform com Flutter
-- Arquitetura de software para aplicações mobile
+### Implementação de modelos de IA em dispositivos móveis
+- Otimização de modelos TensorFlow Lite para performance em dispositivos com recursos limitados
+- Técnicas de quantização e pruning para reduzir o tamanho de modelos sem comprometer precisão
+- Estratégias de caching e processamento assíncrono para melhorar a UX durante inferências
+- Implementação de visão computacional on-device com MLKit e CameraX
+
+### Desenvolvimento cross-platform com Flutter
+- Arquitetura limpa e padrões de design para aplicações Flutter escaláveis
+- Gerenciamento de estado avançado com BLoC, Riverpod e GetX
+- Integração nativa através de Platform Channels para recursos específicos de plataforma
+- Otimizações de performance e estratégias para uma experiência fluida em 60fps
+
+### Arquitetura de software para aplicações mobile
+- Implementação de Clean Architecture em projetos Flutter e React Native
+- Estratégias de comunicação entre microsserviços e aplicações mobile
+- Sincronização offline-first e resolução de conflitos em apps distribuídos
+- Padrões de segurança e criptografia para dados sensíveis em aplicações móveis
 
 ##
 
-<div> 
-    <a href="https://instagram.com/klebergobbi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:klebergobbi@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a> 
-  <a href="https://www.linkedin.com/in/klebergobbi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
----
-
-⭐️ De [Kleber Gobbi](https://github.com/klebergobbi)
