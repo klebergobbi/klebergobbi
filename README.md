@@ -1,14 +1,11 @@
 # Olá, sou Kleber Gobbi 👋
 
-## Desenvolvedor Full-Stack & Especialista em IA/ML & Mobile
-
-![Banner personalizado](/assets/banner.jpg)
+## Desenvolvedor Full-Stack, Infrastructure AWS & Especialista em IA/ML & Mobile
 
 ### Sobre mim
-- 🔭 Atualmente trabalho com Flutter, Machine Learning e tecnologias de IA
-- 🌱 Estou aprendendo LLMs e Computer Vision avançada
+- 🔭 Atualmente trabalho com Flutter, C#, AWS, Azure, GCP, TensorFlow Lite, Firebase, Machine Learning e tecnologias de IA
 - 👯 Busco colaborar em projetos de IA e desenvolvimento mobile com impacto social
-- 💬 Pergunte-me sobre desenvolvimento mobile (Android/iOS), modelos de IA e Deep Learning
+- 💬 Desenvolvimento mobile (Android/iOS), modelos de IA e Deep Learning
 - 📫 Contato: klebergobbi@protonmail.com
 - 🌐 [klebergobbi.dev](https://klebergobbi.dev)
 - 📱 [LinkedIn](https://www.linkedin.com/in/klebergobbi/)
@@ -47,21 +44,27 @@ Em breve compartilharei mais detalhes sobre meus projetos atuais em Machine Lear
 ## ✨ Projetos Destacados
 
 ### AIVision - App de Reconhecimento Visual com IA
-![AIVision Screenshot](/assets/aivision.jpg)
+<p align="center">
+  <img src="/assets/aivision.jpg" alt="AIVision Screenshot" width="400" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+</p>
 
 Aplicativo mobile que utiliza modelos de visão computacional para identificar objetos, textos e cenas em tempo real, com funcionalidades offline.
 
-**Tecnologias:** Flutter, TensorFlow Lite, Firebase
+**Tecnologias:** Flutter, 
 
 ### SmartHealth - Monitoramento Preditivo de Saúde
-![SmartHealth Screenshot](/assets/smarthealth.jpg)
+<p align="center">
+  <img src="/assets/smarthealth.jpg" alt="SmartHealth Screenshot" width="400" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+</p>
 
 Aplicação móvel com machine learning para prever tendências, detectar anomalias e fornecer recomendações personalizadas de saúde.
 
 **Tecnologias:** Flutter, TensorFlow, Firebase, HealthKit/Google Fit
 
 ### FlutterCommerce - E-commerce Cross-Platform
-![FlutterCommerce Screenshot](/assets/fluttercommerce.jpg)
+<p align="center">
+  <img src="/assets/fluttercommerce.jpg" alt="FlutterCommerce Screenshot" width="400" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+</p>
 
 Solução completa de e-commerce mobile em Flutter, com sistema de recomendação baseado em IA e experiência de compra omnichannel.
 
@@ -79,15 +82,4 @@ Em breve compartilharei artigos sobre:
 <div> 
     <a href="https://instagram.com/klebergobbi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:klebergobbi@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a> 
-  <a href="https://www.linkedin.com/in/klebergobbi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-⭐️ De [Kleber Gobbi](https://github.com/klebergobbi)
+  <a href="https://www.linkedin.com/in/klebergobbi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ta
