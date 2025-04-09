@@ -4,7 +4,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-# Olá, sou Kleber Gobbi 👋
+# Olá, sou Kleber Gobbi!
 ## Desenvolvedor Full-Stack & Especialista em IA/ML & Mobile
 
 ### Sobre mim
