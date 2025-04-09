@@ -5,13 +5,13 @@
 </picture>
 
 # Olá, sou Kleber Gobbi!
-## Desenvolvedor Full-Stack & Especialista em IA/ML & Mobile
+## Desenvolvedor Full-Stack, Infrastructure AWS & Especialista em IA/ML & Mobile
 
 ### Sobre mim
 - 🔭 Atualmente trabalho com Flutter, Machine Learning e tecnologias de IA
 - 🌱 Estou aprendendo LLMs e Computer Vision avançada
 - 👯 Busco colaborar em projetos de IA e desenvolvimento mobile com impacto social
-- 💬 Pergunte-me sobre desenvolvimento mobile (Android/iOS), modelos de IA e Deep Learning
+- 💬 Desenvolvimento mobile (Android/iOS), modelos de IA e Deep Learning
 - 📫 Contato: klebergobbi@protonmail.com
 - 🌐 [klebergobbi.dev](https://klebergobbi.dev)
 - 📱 [LinkedIn](https://www.linkedin.com/in/klebergobbi/)
@@ -36,9 +36,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klebergobbi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klebergobbi&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
-### Principais Projetos
-Em breve compartilharei mais detalhes sobre meus projetos atuais em Machine Learning, Flutter e desenvolvimento mobile!
 
 <div align="center">
   <a href="https://github.com/klebergobbi/klebergobbi">
