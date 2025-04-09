@@ -2,7 +2,7 @@
 
 ## Desenvolvedor Full-Stack & Especialista em IA/ML & Mobile
 
-![Banner personalizado](https://i.ibb.co/Jd3tzXW/banner-dev-tech.jpg)
+![Banner personalizado](/assets/banner.jpg)
 
 ### Sobre mim
 - 🔭 Atualmente trabalho com Flutter, Machine Learning e tecnologias de IA
@@ -47,21 +47,21 @@ Em breve compartilharei mais detalhes sobre meus projetos atuais em Machine Lear
 ## ✨ Projetos Destacados
 
 ### AIVision - App de Reconhecimento Visual com IA
-![AIVision Screenshot](https://i.ibb.co/bsSSzR7/ai-vision-app.png)
+![AIVision Screenshot](/assets/aivision.jpg)
 
 Aplicativo mobile que utiliza modelos de visão computacional para identificar objetos, textos e cenas em tempo real, com funcionalidades offline.
 
 **Tecnologias:** Flutter, TensorFlow Lite, Firebase
 
 ### SmartHealth - Monitoramento Preditivo de Saúde
-![SmartHealth Screenshot](https://i.ibb.co/ZYpPVF3/health-app-mobile.png)
+![SmartHealth Screenshot](/assets/smarthealth.jpg)
 
 Aplicação móvel com machine learning para prever tendências, detectar anomalias e fornecer recomendações personalizadas de saúde.
 
 **Tecnologias:** Flutter, TensorFlow, Firebase, HealthKit/Google Fit
 
 ### FlutterCommerce - E-commerce Cross-Platform
-![FlutterCommerce Screenshot](https://i.ibb.co/F3mP33F/ecommerce-app-mobile.png)
+![FlutterCommerce Screenshot](/assets/fluttercommerce.jpg)
 
 Solução completa de e-commerce mobile em Flutter, com sistema de recomendação baseado em IA e experiência de compra omnichannel.
 
